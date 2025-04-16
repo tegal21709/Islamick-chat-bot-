@@ -25,10 +25,10 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
     if (body === i.toUpperCase() | body === i | str === body) {
 const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (data.PREFIX == null) {
-        return out(`This Is My Prefix ⇉ [ ${prefix} ]\n\n𝐎𝐖𝐍𝐄𝐑:- ☞ULLASH × ☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆\n\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ULLASH ッ\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝:- ☞ www.facebook.com/100000654976375\n
-For Any Kind Of Help Contact On massager×✓ m.me/100000654976375 😇`)
+        return out(`This Is My Prefix ⇉ [ ${prefix} ]\n\n𝐎𝐖𝐍𝐄𝐑:- ✿︎𝐃𝐢𝐝𝐚𝐫✿︎×☻︎𝐕𝐊☻︎\n\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐃𝐢𝐝𝐚𝐫😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝:- ☞https://www.facebook.com/didar.xx2 \n
+For Any Kind Of Help Contact On massager×✓ m.me/100000934675181 😇`)
       }
-      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ ${prefix} ]  \n\n𝐎𝐖𝐍𝐄𝐑:- ☞ULLASH × ☆𝐀𝐁𝐇𝐑𝐀𝐍𝐈𝐋☆\n\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ULLASH ッ\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝:- ☞ www.facebook.com/100086680386976\nFor Any Kind Of Help Contact On massager×✓ m.me/100000654976375 ' + data.PREFIX)
+      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ ${prefix} ]  \n\n𝐎𝐖𝐍𝐄𝐑:- ✿︎𝐃𝐢𝐝𝐚𝐫✿︎×☻︎𝐕𝐊☻︎\n\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐃𝐢𝐝𝐚𝐫😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝:- ☞ https://www.facebook.com/didar.xx2 Any Kind Of Help Contact On massager×✓ m.me/100000934675181 ' + data.PREFIX)
     }
 
   });
